@@ -2,19 +2,19 @@
   {
     "name": "Fighter Plane",
     "category": "Planes",
-    "imageurl": "https://yourdomain.com/images/fighter.jpg",
+    "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
     "modelurl": "https://yourdomain.com/models/fighter.glb"
   },
   {
     "name": "Boeing 747",
     "category": "Planes",
-    "imageurl": "https://yourdomain.com/images/boeing.jpg",
+    "imageurl": "https://images.seattletimes.com/wp-content/uploads/2023/06/06172023_transonic-illo_200022.jpg",
     "modelurl": "https://yourdomain.com/models/boeing.glb"
   },
   {
     "name": "Classic Car",
     "category": "Cars",
-    "imageurl": "https://yourdomain.com/images/car.jpg",
+    "imageurl": "https://images.template.net/wp-content/uploads/2016/04/27093503/Sky-Blue-Colored-Car-Wallpaper-for-Download.jpg",
     "modelurl": "https://yourdomain.com/models/car.glb"
   }
 ]
