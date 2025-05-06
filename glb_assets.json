@@ -1,15 +1,15 @@
 [
   {
-    "name": "Fighter Plane",
-    "category": "Planes",
-    "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
-    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Glb_host/dd8ec06037b333c4ae9f7883c9b8041457c8541a/wasp.glb"
+    "name": "Ship 1",
+    "category": "Ships",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEhgzZzWlY8sBnKCSgBgwaR9LPifg0AKtXeZtwlCiRmw4Xtyp-gjtEKPVrkBBgqRdz6war3R1I4MjTA6S9Wd-bHPXiepaqQqP_-BOYF-KD4UH8tc_kYTcdFIJNBdEZ_zGJ_NdCPkjrr8zSMh3f054R83rORP2dyh3_moO5Lg7KMF_7Phuwkp4U75rt81qvLc",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Glb_host/refs/heads/main/sail.glb"
   },
   {
     "name": "Boeing 747",
     "category": "Planes",
     "imageurl": "https://images.seattletimes.com/wp-content/uploads/2023/06/06172023_transonic-illo_200022.jpg",
-    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Glb_host/refs/heads/main/sail.glb"
+    "modelurl": "https://yourdomain.com/models/boeing.glb"
   },
   {
     "name": "Fighter Plane 2",
