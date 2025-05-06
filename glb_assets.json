@@ -12,6 +12,12 @@
     "modelurl": "https://yourdomain.com/models/boeing.glb"
   },
   {
+    "name": "Fighter Plane 2",
+    "category": "Planes",
+    "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
+    "modelurl": "https://yourdomain.com/models/fighter.glb"
+  },
+  {
     "name": "Classic Car",
     "category": "Cars",
     "imageurl": "https://images.template.net/wp-content/uploads/2016/04/27093503/Sky-Blue-Colored-Car-Wallpaper-for-Download.jpg",
