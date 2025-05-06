@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fighter Plane",
+    "category": "Planes",
+    "imageurl": "https://yourdomain.com/images/fighter.jpg",
+    "modelurl": "https://yourdomain.com/models/fighter.glb"
+  },
+  {
+    "name": "Boeing 747",
+    "category": "Planes",
+    "imageurl": "https://yourdomain.com/images/boeing.jpg",
+    "modelurl": "https://yourdomain.com/models/boeing.glb"
+  },
+  {
+    "name": "Classic Car",
+    "category": "Cars",
+    "imageurl": "https://yourdomain.com/images/car.jpg",
+    "modelurl": "https://yourdomain.com/models/car.glb"
+  }
+]
