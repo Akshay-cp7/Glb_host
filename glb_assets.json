@@ -3,7 +3,7 @@
     "name": "Fighter Plane",
     "category": "Planes",
     "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
-    "modelurl": "https://github.com/Akshay-cp7/Glb_host/blob/main/wasp.glb"
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Glb_host/dd8ec06037b333c4ae9f7883c9b8041457c8541a/wasp.glb"
   },
   {
     "name": "Boeing 747",
