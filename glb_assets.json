@@ -7,9 +7,9 @@
   },
   {
     "name": "Boeing 747",
-    "category": "Planes",
+    "category": "Ships",
     "imageurl": "https://images.seattletimes.com/wp-content/uploads/2023/06/06172023_transonic-illo_200022.jpg",
-    "modelurl": "https://yourdomain.com/models/boeing.glb"
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/ship1.glb"
   },
   {
     "name": "Fighter Plane 2",
