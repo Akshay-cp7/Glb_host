@@ -2,13 +2,13 @@
   {
     "name": "Ship 1",
     "category": "Ships",
-    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEhgzZzWlY8sBnKCSgBgwaR9LPifg0AKtXeZtwlCiRmw4Xtyp-gjtEKPVrkBBgqRdz6war3R1I4MjTA6S9Wd-bHPXiepaqQqP_-BOYF-KD4UH8tc_kYTcdFIJNBdEZ_zGJ_NdCPkjrr8zSMh3f054R83rORP2dyh3_moO5Lg7KMF_7Phuwkp4U75rt81qvLc",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEjWR9VC2clD29AYz_0vJoD1PsCGt1UPNh95zynmx8x01gTfqWG126KQ6AwNKTKQS3Dqo670i8y8WUgXE9y8yHu_WT-jPMq5hKGwVXGa1ZCNOGEYJw2aqLCMmMOr6-0Pp6x4yWP__4pPyaSn5Wbne0hgCGbwJsIlj1QiSpn1YlN1fwfL9ruRkGDPJGh6srPs",
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Glb_host/refs/heads/main/sail.glb"
   },
   {
     "name": "Boeing 747",
     "category": "Ships",
-    "imageurl": "https://images.seattletimes.com/wp-content/uploads/2023/06/06172023_transonic-illo_200022.jpg",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHCVPqthQcgLWWLKHhtBGok154xc8F4ThJB5_b9ThNKQSqG5GBtgeDoigaJtLj85do2g7ZhKsp5R6pE8GQ4wLUT6EiLAJxk2aK98H9ylFU8yNpJ5u7L7RYeK99G_8fIALMf6L_7TN-HM6z3bxoTQ96DlimuQKxm7gxgWda5CovOK8A00GIxW5msSahPGXE",
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/ship1.glb"
   },
   {
