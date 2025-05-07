@@ -1,21 +1,57 @@
 [
   {
-    "name": "Ship 1",
-    "category": "Ships",
-    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEjWR9VC2clD29AYz_0vJoD1PsCGt1UPNh95zynmx8x01gTfqWG126KQ6AwNKTKQS3Dqo670i8y8WUgXE9y8yHu_WT-jPMq5hKGwVXGa1ZCNOGEYJw2aqLCMmMOr6-0Pp6x4yWP__4pPyaSn5Wbne0hgCGbwJsIlj1QiSpn1YlN1fwfL9ruRkGDPJGh6srPs",
-    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Glb_host/refs/heads/main/sail.glb"
+    "name": "Comfy 1",
+    "category": "Chairs",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHCVPqthQcgLWWLKHhtBGok154xc8F4ThJB5_b9ThNKQSqG5GBtgeDoigaJtLj85do2g7ZhKsp5R6pE8GQ4wLUT6EiLAJxk2aK98H9ylFU8yNpJ5u7L7RYeK99G_8fIALMf6L_7TN-HM6z3bxoTQ96DlimuQKxm7gxgWda5CovOK8A00GIxW5msSahPGXE",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/comfy1.glb"
   },
   {
-    "name": "Boeing 747",
-    "category": "Ships",
+    "name": "Comfy 2",
+    "category": "Chairs",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHCVPqthQcgLWWLKHhtBGok154xc8F4ThJB5_b9ThNKQSqG5GBtgeDoigaJtLj85do2g7ZhKsp5R6pE8GQ4wLUT6EiLAJxk2aK98H9ylFU8yNpJ5u7L7RYeK99G_8fIALMf6L_7TN-HM6z3bxoTQ96DlimuQKxm7gxgWda5CovOK8A00GIxW5msSahPGXE",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/comfy2.glb"
+  },
+  {
+    "name": "Comfy 3",
+    "category": "Chairs",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHCVPqthQcgLWWLKHhtBGok154xc8F4ThJB5_b9ThNKQSqG5GBtgeDoigaJtLj85do2g7ZhKsp5R6pE8GQ4wLUT6EiLAJxk2aK98H9ylFU8yNpJ5u7L7RYeK99G_8fIALMf6L_7TN-HM6z3bxoTQ96DlimuQKxm7gxgWda5CovOK8A00GIxW5msSahPGXE",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/comfy3.glb"
+  },
+  {
+    "name": "Comfy 4",
+    "category": "Chairs",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHCVPqthQcgLWWLKHhtBGok154xc8F4ThJB5_b9ThNKQSqG5GBtgeDoigaJtLj85do2g7ZhKsp5R6pE8GQ4wLUT6EiLAJxk2aK98H9ylFU8yNpJ5u7L7RYeK99G_8fIALMf6L_7TN-HM6z3bxoTQ96DlimuQKxm7gxgWda5CovOK8A00GIxW5msSahPGXE",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/comfy4.glb"
+  },
+  {
+    "name": "Comfy 5",
+    "category": "Chairs",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHCVPqthQcgLWWLKHhtBGok154xc8F4ThJB5_b9ThNKQSqG5GBtgeDoigaJtLj85do2g7ZhKsp5R6pE8GQ4wLUT6EiLAJxk2aK98H9ylFU8yNpJ5u7L7RYeK99G_8fIALMf6L_7TN-HM6z3bxoTQ96DlimuQKxm7gxgWda5CovOK8A00GIxW5msSahPGXE",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/comfy5.glb"
+  },
+  {
+    "name": "Storm 1",
+    "category": "Chairs",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHCVPqthQcgLWWLKHhtBGok154xc8F4ThJB5_b9ThNKQSqG5GBtgeDoigaJtLj85do2g7ZhKsp5R6pE8GQ4wLUT6EiLAJxk2aK98H9ylFU8yNpJ5u7L7RYeK99G_8fIALMf6L_7TN-HM6z3bxoTQ96DlimuQKxm7gxgWda5CovOK8A00GIxW5msSahPGXE",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/storm.glb"
+  },
+  {
+    "name": "Storm 2",
+    "category": "Chairs",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHCVPqthQcgLWWLKHhtBGok154xc8F4ThJB5_b9ThNKQSqG5GBtgeDoigaJtLj85do2g7ZhKsp5R6pE8GQ4wLUT6EiLAJxk2aK98H9ylFU8yNpJ5u7L7RYeK99G_8fIALMf6L_7TN-HM6z3bxoTQ96DlimuQKxm7gxgWda5CovOK8A00GIxW5msSahPGXE",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/storm2.glb"
+  },
+  {
+    "name": "Ship 1",
+    "category": "Decorations",
     "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHCVPqthQcgLWWLKHhtBGok154xc8F4ThJB5_b9ThNKQSqG5GBtgeDoigaJtLj85do2g7ZhKsp5R6pE8GQ4wLUT6EiLAJxk2aK98H9ylFU8yNpJ5u7L7RYeK99G_8fIALMf6L_7TN-HM6z3bxoTQ96DlimuQKxm7gxgWda5CovOK8A00GIxW5msSahPGXE",
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/ship1.glb"
   },
   {
-    "name": "Fighter Plane 2",
-    "category": "Planes",
+    "name": "Ship 2",
+    "category": "Decorations",
     "imageurl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/960px-F-16_June_2008.jpg",
-    "modelurl": "https://yourdomain.com/models/fighter.glb"
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/ship2.glb"
   },
   {
     "name": "Classic Car",
