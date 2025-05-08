@@ -78,6 +78,48 @@
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_PlantPots/refs/heads/main/p7.glb"
   },
   {
+    "name": "Modern Lamp 1",
+    "category": "Lamps",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEi2MbQaJ7eT6LjLRsFs-UHOfZ-WSkzQChB93yveSdtB03nFKGkGj6--ZR1yHtpeBGCzwO0rGHDZ2n56F-rYZkXlixPdmkXqDgeqJFyOAa6CKIDBAkiQf5NjJRztC90TA_fE3kmE_TKOSZzUTwMSjWAa2pIGVh_27HjquvCMmYz7DRpMRWpWcy8IYchUa5Xc",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_TableLamp/refs/heads/main/Modern_lamp1.glb"
+  },
+  {
+    "name": "Modern Lamp 2",
+    "category": "Lamps",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEi2MbQaJ7eT6LjLRsFs-UHOfZ-WSkzQChB93yveSdtB03nFKGkGj6--ZR1yHtpeBGCzwO0rGHDZ2n56F-rYZkXlixPdmkXqDgeqJFyOAa6CKIDBAkiQf5NjJRztC90TA_fE3kmE_TKOSZzUTwMSjWAa2pIGVh_27HjquvCMmYz7DRpMRWpWcy8IYchUa5Xc",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_TableLamp/refs/heads/main/Modern_lamp2.glb"
+  },
+  {
+    "name": "Lamp 1",
+    "category": "Lamps",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEi2MbQaJ7eT6LjLRsFs-UHOfZ-WSkzQChB93yveSdtB03nFKGkGj6--ZR1yHtpeBGCzwO0rGHDZ2n56F-rYZkXlixPdmkXqDgeqJFyOAa6CKIDBAkiQf5NjJRztC90TA_fE3kmE_TKOSZzUTwMSjWAa2pIGVh_27HjquvCMmYz7DRpMRWpWcy8IYchUa5Xc",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_TableLamp/refs/heads/main/Lamp1.glb"
+  },
+  {
+    "name": "Lamp 2",
+    "category": "Lamps",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEi2MbQaJ7eT6LjLRsFs-UHOfZ-WSkzQChB93yveSdtB03nFKGkGj6--ZR1yHtpeBGCzwO0rGHDZ2n56F-rYZkXlixPdmkXqDgeqJFyOAa6CKIDBAkiQf5NjJRztC90TA_fE3kmE_TKOSZzUTwMSjWAa2pIGVh_27HjquvCMmYz7DRpMRWpWcy8IYchUa5Xc",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_TableLamp/refs/heads/main/Lamp2.glb"
+  },
+  {
+    "name": "Lamp 3",
+    "category": "Lamps",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEi2MbQaJ7eT6LjLRsFs-UHOfZ-WSkzQChB93yveSdtB03nFKGkGj6--ZR1yHtpeBGCzwO0rGHDZ2n56F-rYZkXlixPdmkXqDgeqJFyOAa6CKIDBAkiQf5NjJRztC90TA_fE3kmE_TKOSZzUTwMSjWAa2pIGVh_27HjquvCMmYz7DRpMRWpWcy8IYchUa5Xc",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_TableLamp/refs/heads/main/Lamp3.glb"
+  },
+  {
+    "name": "Lamp 4",
+    "category": "Lamps",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEi2MbQaJ7eT6LjLRsFs-UHOfZ-WSkzQChB93yveSdtB03nFKGkGj6--ZR1yHtpeBGCzwO0rGHDZ2n56F-rYZkXlixPdmkXqDgeqJFyOAa6CKIDBAkiQf5NjJRztC90TA_fE3kmE_TKOSZzUTwMSjWAa2pIGVh_27HjquvCMmYz7DRpMRWpWcy8IYchUa5Xc",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_TableLamp/refs/heads/main/Lamp4.glb"
+  },
+  {
+    "name": "Lamp 5",
+    "category": "Lamps",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEi2MbQaJ7eT6LjLRsFs-UHOfZ-WSkzQChB93yveSdtB03nFKGkGj6--ZR1yHtpeBGCzwO0rGHDZ2n56F-rYZkXlixPdmkXqDgeqJFyOAa6CKIDBAkiQf5NjJRztC90TA_fE3kmE_TKOSZzUTwMSjWAa2pIGVh_27HjquvCMmYz7DRpMRWpWcy8IYchUa5Xc",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_TableLamp/refs/heads/main/Lamp5.glb"
+  },
+  {
     "name": "Storm 2",
     "category": "Chairs",
     "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEg-_qywotzxG8DoHNWoQ6IzJ_3iaL_Ji1JtLsEL29A8Iesdjv951NpE1gU4hMN48WSU5sOMX_1h_yGp4ax5jhUTcf4wcRiQL0iTwQJrQ1ojxE9SCQQrO5S0yzDb_XI1O2UtJPyiAzqdYd7j45975YLBf5WiKLo2B_T1OVMzJupyt3M_yNuTYDRcWCOLwluA",
