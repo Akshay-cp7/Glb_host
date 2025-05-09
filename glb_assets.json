@@ -136,11 +136,5 @@
     "category": "Decorations",
     "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxHsQlJUMtQqJZvMRcW5qfmvftuH2cEOoFuoUBSxiF7reBrLBL4EIYF-sp63ODTZnmIho6PLcfatN7tIs_nnQdLr-d0ylTbPW8QMtJR9_gaEkjV9eCxGgTDsfNjlp74RZNL2OsJO1JhBxY_EasSKhy8cwcXfi-XiUop2uEGgnbGQmKnjOkezY6HW-QgX7/s320/WhatsApp%20Image%202025-05-08%20at%2010.10.43_54030ada.jpg",
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/ship2.glb"
-  },
-  {
-    "name": "Classic Car",
-    "category": "Cars",
-    "imageurl": "https://images.template.net/wp-content/uploads/2016/04/27093503/Sky-Blue-Colored-Car-Wallpaper-for-Download.jpg",
-    "modelurl": "https://yourdomain.com/models/car.glb"
   }
 ]
