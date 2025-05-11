@@ -36,6 +36,12 @@
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/storm.glb"
   },
   {
+    "name": "Storm 2",
+    "category": "Chairs",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEg-_qywotzxG8DoHNWoQ6IzJ_3iaL_Ji1JtLsEL29A8Iesdjv951NpE1gU4hMN48WSU5sOMX_1h_yGp4ax5jhUTcf4wcRiQL0iTwQJrQ1ojxE9SCQQrO5S0yzDb_XI1O2UtJPyiAzqdYd7j45975YLBf5WiKLo2B_T1OVMzJupyt3M_yNuTYDRcWCOLwluA",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/storm2.glb"
+  },
+  {
     "name": "Plant 1",
     "category": "Plants",
     "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEj3YcksfrGh7uowsE54ndx_8UNziLedJi4Vk__4XpimnkqiKGut7SY63xUwHd391ZQRayKH9TjxG1WWQFCQlEak5GFbubc_Z_FNX6aXHtP-xweSTDwCllO-WkQhsh9OgNLVUmGCThlJB4szsUCzLuUS1gL9QJ5uqsSe2aYbSrq7xrbX_PUd-J-yhh3daKlQ",
@@ -120,12 +126,6 @@
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_TableLamp/refs/heads/main/Lamp5.glb"
   },
   {
-    "name": "Storm 2",
-    "category": "Chairs",
-    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEg-_qywotzxG8DoHNWoQ6IzJ_3iaL_Ji1JtLsEL29A8Iesdjv951NpE1gU4hMN48WSU5sOMX_1h_yGp4ax5jhUTcf4wcRiQL0iTwQJrQ1ojxE9SCQQrO5S0yzDb_XI1O2UtJPyiAzqdYd7j45975YLBf5WiKLo2B_T1OVMzJupyt3M_yNuTYDRcWCOLwluA",
-    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/storm2.glb"
-  },
-  {
     "name": "Ship 1",
     "category": "Decorations",
     "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHCVPqthQcgLWWLKHhtBGok154xc8F4ThJB5_b9ThNKQSqG5GBtgeDoigaJtLj85do2g7ZhKsp5R6pE8GQ4wLUT6EiLAJxk2aK98H9ylFU8yNpJ5u7L7RYeK99G_8fIALMf6L_7TN-HM6z3bxoTQ96DlimuQKxm7gxgWda5CovOK8A00GIxW5msSahPGXE",
@@ -136,5 +136,11 @@
     "category": "Decorations",
     "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxHsQlJUMtQqJZvMRcW5qfmvftuH2cEOoFuoUBSxiF7reBrLBL4EIYF-sp63ODTZnmIho6PLcfatN7tIs_nnQdLr-d0ylTbPW8QMtJR9_gaEkjV9eCxGgTDsfNjlp74RZNL2OsJO1JhBxY_EasSKhy8cwcXfi-XiUop2uEGgnbGQmKnjOkezY6HW-QgX7/s320/WhatsApp%20Image%202025-05-08%20at%2010.10.43_54030ada.jpg",
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/ship2.glb"
+  },
+  {
+    "name": "Small plant 1",
+    "category": "Decorations",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxHsQlJUMtQqJZvMRcW5qfmvftuH2cEOoFuoUBSxiF7reBrLBL4EIYF-sp63ODTZnmIho6PLcfatN7tIs_nnQdLr-d0ylTbPW8QMtJR9_gaEkjV9eCxGgTDsfNjlp74RZNL2OsJO1JhBxY_EasSKhy8cwcXfi-XiUop2uEGgnbGQmKnjOkezY6HW-QgX7/s320/WhatsApp%20Image%202025-05-08%20at%2010.10.43_54030ada.jpg",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/sp1.glb"
   }
 ]
