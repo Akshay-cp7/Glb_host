@@ -202,5 +202,23 @@
     "category": "Aliens",
     "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdz6jTh9ySvlWfQvycaJzbG8lAjcHA4shiFevECSsROva0kVnsUvC8uyK_nbSPCsbD-lqzOK0TUgldSsdCZxXYOfU0iyj_6-HRYdwl1cJjAhqioAXDxxQuuObAsJQj7oRFnMDwsTK0X4JDkXriuJTcE443d4XquU1RKnyje1sGcScpBY7fLKkZgfQ6xs5P/s320/IMG-20250513-WA0013.jpg",
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Aliens/refs/heads/main/Alien_5.glb"
+  },
+   {
+    "name": "Table 1",
+    "category": "Table",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdz6jTh9ySvlWfQvycaJzbG8lAjcHA4shiFevECSsROva0kVnsUvC8uyK_nbSPCsbD-lqzOK0TUgldSsdCZxXYOfU0iyj_6-HRYdwl1cJjAhqioAXDxxQuuObAsJQj7oRFnMDwsTK0X4JDkXriuJTcE443d4XquU1RKnyje1sGcScpBY7fLKkZgfQ6xs5P/s320/IMG-20250513-WA0013.jpg",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Tables/refs/heads/main/Table/WoodenTable_01_1k.glb"
+  },
+  {
+    "name": "Table 2",
+    "category": "Table",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdz6jTh9ySvlWfQvycaJzbG8lAjcHA4shiFevECSsROva0kVnsUvC8uyK_nbSPCsbD-lqzOK0TUgldSsdCZxXYOfU0iyj_6-HRYdwl1cJjAhqioAXDxxQuuObAsJQj7oRFnMDwsTK0X4JDkXriuJTcE443d4XquU1RKnyje1sGcScpBY7fLKkZgfQ6xs5P/s320/IMG-20250513-WA0013.jpg",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Tables/refs/heads/main/Table/folding_wooden_stool_1k.glb"
+  },
+  {
+    "name": "Table 3",
+    "category": "Table",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdz6jTh9ySvlWfQvycaJzbG8lAjcHA4shiFevECSsROva0kVnsUvC8uyK_nbSPCsbD-lqzOK0TUgldSsdCZxXYOfU0iyj_6-HRYdwl1cJjAhqioAXDxxQuuObAsJQj7oRFnMDwsTK0X4JDkXriuJTcE443d4XquU1RKnyje1sGcScpBY7fLKkZgfQ6xs5P/s320/IMG-20250513-WA0013.jpg",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Tables/refs/heads/main/Table/outdoor_table_chair_set_01_1k.glb"
   }
 ]
