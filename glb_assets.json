@@ -30,6 +30,18 @@
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/comfy5.glb"
   },
   {
+    "name": "Comfy 6",
+    "category": "Chairs",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEh3cP5EltrC-4ysgteLYxF_GkjkRsUXMhV6AmYuHZmqkaSDwISeNh5vKJSNAlOdxVgGIr56jLq7cc522H7bpCInV4G_0qpbi3eIRFdZru5UBA5FyDDkTy-plAHCTGJVTJpL5s01uhGt08rHns0cjSQqcGbUz5TejTqVYBCS6149uOB2SramjHQOVfZ610RH",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/comfy6.glb"
+  },
+  {
+    "name": "Sofa 1",
+    "category": "Chairs",
+    "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEh3cP5EltrC-4ysgteLYxF_GkjkRsUXMhV6AmYuHZmqkaSDwISeNh5vKJSNAlOdxVgGIr56jLq7cc522H7bpCInV4G_0qpbi3eIRFdZru5UBA5FyDDkTy-plAHCTGJVTJpL5s01uhGt08rHns0cjSQqcGbUz5TejTqVYBCS6149uOB2SramjHQOVfZ610RH",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Chairs/refs/heads/main/sofa_1.glb"
+  },
+  {
     "name": "Storm 1",
     "category": "Chairs",
     "imageurl": "https://blogger.googleusercontent.com/img/a/AVvXsEiir1MjmaF_lEIULGEzI7zC5ju8KGHcmsNCfXkJqbG82A2a9lWvaqGWTlbBlSb5P4TQBmld8Hv5hhvJ4Yr5VntMgUOqAHDRMiMO1S-CjhP7cON1pPL1_gAG5oFSvZtH-Hp7esuiVUnrvnKB-d1Q7MjdoQK6NcKLBBWKTCe61jtLuXBnZb7Dqtxz-QlB0QZH",
@@ -58,6 +70,18 @@
     "category": "Table",
     "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF2hd3zTxPM5HBNof4_EdnptkKToJZHBfF3figEv7poq3anU5oM197GoKXW0ArA0Nw_USHq2aQO2ldX1vmIsPMKK3YHrYja_1R6bNq4MO1rSrOxN7qmstkJsQa97nPIeoj_nAhUNOB48jLy9jW6MmRslKsiLBp6vxp5gvbMq9CE8PwRmwwvDAdDJPpJlZt/s320/WhatsApp%20Image%202025-06-03%20at%2011.57.46_6d0522f8.jpg",
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Tables/refs/heads/main/Table/outdoor_table_chair_set_01_1k.glb"
+  },
+   {
+    "name": "Table 4",
+    "category": "Table",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF2hd3zTxPM5HBNof4_EdnptkKToJZHBfF3figEv7poq3anU5oM197GoKXW0ArA0Nw_USHq2aQO2ldX1vmIsPMKK3YHrYja_1R6bNq4MO1rSrOxN7qmstkJsQa97nPIeoj_nAhUNOB48jLy9jW6MmRslKsiLBp6vxp5gvbMq9CE8PwRmwwvDAdDJPpJlZt/s320/WhatsApp%20Image%202025-06-03%20at%2011.57.46_6d0522f8.jpg",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Tables/refs/heads/main/Table/Table4.glb"
+  },
+   {
+    "name": "Table 5",
+    "category": "Table",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF2hd3zTxPM5HBNof4_EdnptkKToJZHBfF3figEv7poq3anU5oM197GoKXW0ArA0Nw_USHq2aQO2ldX1vmIsPMKK3YHrYja_1R6bNq4MO1rSrOxN7qmstkJsQa97nPIeoj_nAhUNOB48jLy9jW6MmRslKsiLBp6vxp5gvbMq9CE8PwRmwwvDAdDJPpJlZt/s320/WhatsApp%20Image%202025-06-03%20at%2011.57.46_6d0522f8.jpg",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/Tables/refs/heads/main/Table/Table5.glb"
   },
   {
     "name": "Plant 1",
@@ -154,6 +178,30 @@
     "category": "Decorations",
     "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxHsQlJUMtQqJZvMRcW5qfmvftuH2cEOoFuoUBSxiF7reBrLBL4EIYF-sp63ODTZnmIho6PLcfatN7tIs_nnQdLr-d0ylTbPW8QMtJR9_gaEkjV9eCxGgTDsfNjlp74RZNL2OsJO1JhBxY_EasSKhy8cwcXfi-XiUop2uEGgnbGQmKnjOkezY6HW-QgX7/s320/WhatsApp%20Image%202025-05-08%20at%2010.10.43_54030ada.jpg",
     "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/ship2.glb"
+  },
+  {
+    "name": "Pumkin Beanbag",
+    "category": "Decorations",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxHsQlJUMtQqJZvMRcW5qfmvftuH2cEOoFuoUBSxiF7reBrLBL4EIYF-sp63ODTZnmIho6PLcfatN7tIs_nnQdLr-d0ylTbPW8QMtJR9_gaEkjV9eCxGgTDsfNjlp74RZNL2OsJO1JhBxY_EasSKhy8cwcXfi-XiUop2uEGgnbGQmKnjOkezY6HW-QgX7/s320/WhatsApp%20Image%202025-05-08%20at%2010.10.43_54030ada.jpg",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/pumkin_been_bag.glb"
+  },
+  {
+    "name": "mage",
+    "category": "Decorations",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxHsQlJUMtQqJZvMRcW5qfmvftuH2cEOoFuoUBSxiF7reBrLBL4EIYF-sp63ODTZnmIho6PLcfatN7tIs_nnQdLr-d0ylTbPW8QMtJR9_gaEkjV9eCxGgTDsfNjlp74RZNL2OsJO1JhBxY_EasSKhy8cwcXfi-XiUop2uEGgnbGQmKnjOkezY6HW-QgX7/s320/WhatsApp%20Image%202025-05-08%20at%2010.10.43_54030ada.jpg",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/mage.glb"
+  },
+  {
+    "name": "fox",
+    "category": "Decorations",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxHsQlJUMtQqJZvMRcW5qfmvftuH2cEOoFuoUBSxiF7reBrLBL4EIYF-sp63ODTZnmIho6PLcfatN7tIs_nnQdLr-d0ylTbPW8QMtJR9_gaEkjV9eCxGgTDsfNjlp74RZNL2OsJO1JhBxY_EasSKhy8cwcXfi-XiUop2uEGgnbGQmKnjOkezY6HW-QgX7/s320/WhatsApp%20Image%202025-05-08%20at%2010.10.43_54030ada.jpg",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/fox.glb"
+  },
+  {
+    "name": "chicken",
+    "category": "Decorations",
+    "imageurl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxHsQlJUMtQqJZvMRcW5qfmvftuH2cEOoFuoUBSxiF7reBrLBL4EIYF-sp63ODTZnmIho6PLcfatN7tIs_nnQdLr-d0ylTbPW8QMtJR9_gaEkjV9eCxGgTDsfNjlp74RZNL2OsJO1JhBxY_EasSKhy8cwcXfi-XiUop2uEGgnbGQmKnjOkezY6HW-QgX7/s320/WhatsApp%20Image%202025-05-08%20at%2010.10.43_54030ada.jpg",
+    "modelurl": "https://raw.githubusercontent.com/Akshay-cp7/GLB_Ships/refs/heads/main/chicken.glb"
   },
   {
     "name": "Small plant 1",
